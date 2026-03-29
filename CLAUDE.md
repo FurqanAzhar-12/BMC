@@ -529,3 +529,7 @@ useEffect(() => {
 - Next.js: 3D components (React Three Fiber) MUST be client components. Never render Three.js on server.
 - Framer Motion: AnimatePresence must be in a client component — root layout needs 'use client' or wrap in a client boundary.
 - next/image: Add Cloudinary domain to next.config.js `images.remotePatterns` or images will fail.
+
+## Skills Note
+ui-ux-pro-max skill: Always use --stack nextjs. 
+Output must be adapted to MUI sx prop — never use Tailwind directly.
